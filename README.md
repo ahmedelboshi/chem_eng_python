@@ -1,4 +1,4 @@
-# Project Title: Python-based Solution for Chemical Engineering Mass Transfer Problems
+Python-based Solution for Chemical Engineering Mass Transfer Problems
 
 ## Introduction:
 This project aims to revolutionize the approach to solving chemical engineering mass transfer problems by leveraging the power of Python programming. Traditional methods often involve manual calculations or complex software, but with this project, we intend to streamline the process and provide the engineering community with a user-friendly, efficient, and open-source solution.
