@@ -26,7 +26,7 @@ To begin using the Python-based solution for chemical engineering mass transfer 
 We welcome contributions from individuals passionate about advancing the field of chemical engineering through coding. Whether you're interested in adding new features, improving existing functionality, or enhancing documentation, there are numerous ways to get involved. Please refer to the project's contribution guidelines and code of conduct for more information.
 
 ## License:
-This project is licensed under the MIT license. See the LICENSE file for details.
+This project is licensed under the Apache license. See the LICENSE file for details.
 
 ## Contact:
 For questions, suggestions, or collaboration opportunities, please contact ahmedelboshi2@gmail.com.
