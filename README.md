@@ -1,10 +1,10 @@
-Python-based Solution for Chemical Engineering Mass Transfer Problems
+# Python-based Solution for Chemical Engineering Mass Transfer Problems
 
 ## Introduction:
 This project aims to revolutionize the approach to solving chemical engineering mass transfer problems by leveraging the power of Python programming. Traditional methods often involve manual calculations or complex software, but with this project, we intend to streamline the process and provide the engineering community with a user-friendly, efficient, and open-source solution.
 
 ## Objective:
-The primary objective of this project is to empower chemical engineers to utilize coding as a tool for solving mass transfer problems. By offering readily available Python code examples and functions, we aim to demonstrate the advantages of computational methods over conventional approaches. Furthermore, this project endeavors to serve as a starting point for the development of a comprehensive open-source framework dedicated to mass transfer simulations and calculations.
+The primary objective of this project is to empower chemical engineers to utilize coding as a tool for solving mass transfer problems. By offering readily available Python code examples and functions, we aim to demonstrate the advantages of computational methods over conventional approaches. Furthermore, this project endeavors t#o serve as a starting point for the development of a comprehensive open-source framework dedicated to mass transfer simulations and calculations.
 
 ## Key Features:
 - Python-based code for solving a wide range of mass transfer problems encountered in chemical engineering, including diffusion, mass transfer coefficients, absorption, distillation, and more.
